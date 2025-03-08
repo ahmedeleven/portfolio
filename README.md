@@ -1,5 +1,14 @@
 # Portofolio Projects
 
+## Suupala
+
+The main functionality of the project is to generate recipes using AI based on the items in the user's fridge.
+
+ [Front-End](https://github.com/ahmedeleven/suupala-frontend)
+
+ [Back-End](https://github.com/ahmedeleven/suupala-backend)
+
+
 ## Apu Ankka
 
 A web app that allows users to request and provide simple services to each other while offering a small fee for the services rendered
